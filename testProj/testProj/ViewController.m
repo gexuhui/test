@@ -26,6 +26,10 @@
     
     UIView *view = [[UIView alloc] init];
     [self.view addSubview:view];
+
+    NSLog(@"fun2----------");
+    
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
