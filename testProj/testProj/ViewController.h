@@ -11,8 +11,9 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic, copy) NSString *func2;
-
 @property (nonatomic, copy) NSString *func1;
+@property (nonatomic, copy) NSString *func3;
+
 
 @end
 
