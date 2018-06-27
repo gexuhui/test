@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, copy) NSString *func2;
+
 
 @end
 
