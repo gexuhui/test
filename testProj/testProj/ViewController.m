@@ -18,6 +18,10 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     self.title = @"func2";
+    
+    UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
+    [self.view addSubview:btn];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
