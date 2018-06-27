@@ -12,6 +12,8 @@
 
 @property (nonatomic, copy) NSString *func2;
 
+@property (nonatomic, copy) NSString *func3;
+
 
 @end
 
