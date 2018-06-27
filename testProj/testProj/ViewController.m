@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
+    self.title = @"func2";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
