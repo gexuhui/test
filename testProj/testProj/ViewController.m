@@ -32,6 +32,8 @@
     NSLog(@"func3---------------");
     
     NSLog(@"hello world");
+    
+    NSLog(@"good idea");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
